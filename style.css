@@ -3,3 +3,7 @@ body { background-color: LightSkyBlue; }
 #Quote { 
   text-align: center;
 }
+
+#TopBox {
+  border: 2px solid: LightBlue;
+}
