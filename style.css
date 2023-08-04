@@ -7,3 +7,7 @@ body { background-color: LightSkyBlue; }
 #TopBox {
   border: 2px solid: LightBlue;
 }
+
+hr {
+  margin-bottom: -25px;
+}
