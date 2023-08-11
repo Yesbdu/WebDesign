@@ -15,15 +15,19 @@ hr {
   margin-bottom: -25px;
 }
 
-#TopBox {
+.Header{
   border: 2px solid LightBlue; 
   background-color: LightBlue;
   padding-top: 10px;
   padding-left: 10px;
   padding-bottom: 10px;
-  margin-top: -60px;
+  margin-top: -32px;
   margin-left: -7px;
   margin-right: -7px;
+}
+
+#TopBox {
+  display: inline;
   font-size: 25px;
   font-family: Dancing Script, serif;
 }
@@ -35,12 +39,15 @@ font-family: 'Dancing Script', cursive;
 }
 
 #Insta {
+  display:inline;
   height: 30px;
   width: 30px;
   float: right;
+  margin-right: 5px;
 }
 
 #YT {
+  display: inline;
   height: 30px;
   width: 35px;
   float: right;
