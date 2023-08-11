@@ -35,15 +35,16 @@ font-family: 'Dancing Script', cursive;
 }
 
 #Insta {
-  height: 25px;
-  width: 25px;
+  height: 30px;
+  width: 30px;
   float: right;
 }
 
 #YT {
-  height: 25px;
-  width: 30px;
+  height: 30px;
+  width: 35px;
   float: right;
+  margin-right: 5px;
 }
 
 
